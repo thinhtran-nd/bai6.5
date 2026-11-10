@@ -11,16 +11,20 @@
 
 ## KẾT QUẢ THỰC HÀNH
 1. Màn hình Chính / Tổng quan hệ thống:
-<img width="1920" height="1080" alt="GD" src="https://github.com/user-attachments/assets/689a7ad1-4fd4-44f5-b633-0b78a42278ca" />
+<img width="1176" height="797" alt="GD" src="https://github.com/user-attachments/assets/d971b28c-a9e9-4162-8ce4-efa66461bacb" />
+
 
 2. Màn hình Quản lý Danh mục (CRUD - Thêm/Sửa/Xóa):
-<img width="1920" height="1080" alt="CN1" src="https://github.com/user-attachments/assets/706f3067-f278-4b82-8e3b-0f172de8980f" />
+<img width="1171" height="785" alt="CN1" src="https://github.com/user-attachments/assets/e6475adb-5a99-4f39-94c3-419bce019c22" />
+
 
 3. Màn hình Thực thi Nghiệp vụ chính (Lập Hóa đơn / Bán hàng /Chấm công / Đặt phòng):
-<img width="1920" height="1080" alt="CN2" src="https://github.com/user-attachments/assets/bdb30cc7-44ed-4a4e-8804-a43534602004" />
+<img width="1170" height="803" alt="CN2" src="https://github.com/user-attachments/assets/5b6456db-6c0c-4aac-8c4b-e6e7ee00b3ca" />
+
 
 4. Màn hình Báo cáo - Thống kê:
-<img width="1920" height="1080" alt="KQ" src="https://github.com/user-attachments/assets/190caea9-993e-4452-b761-2d889b43ff19" />
+<img width="1181" height="793" alt="KQ" src="https://github.com/user-attachments/assets/d19f6a19-f4d0-4db6-b9d0-79acf352b98b" />
+
 
 
 ## HƯỚNG DẪN CÀI ĐẶT VÀ CHẠY DỰ ÁN:
